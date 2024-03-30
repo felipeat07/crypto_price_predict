@@ -22,7 +22,7 @@ O objetivo deste projeto é fornecer aos usuários uma ferramenta para prever os
 
 ## Conteúdo dos Dados
 
-Os dados utilizados para treinar o modelo foram extraídos da API da CoinGecko e estão disponíveis diariamente desde 1º de janeiro de 2015. As informações contidas nos dados incluem a data da observação, o preço na data e hora determinadas, o volume total de transações em um determinado dia e a capitalização de mercado em dólares americanos.
+Os dados utilizados para treinar o modelo foram extraídos da API da CoinGecko e estão disponíveis diariamente desde 1º de janeiro de 2015 até Março de 2024. As informações contidas nos dados incluem a data da observação, o preço na data e hora determinadas, o volume total de transações em um determinado dia e a capitalização de mercado em dólares americanos.
 
 ## Tecnologias Utilizadas
 
